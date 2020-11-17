@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Will it ever end?
+Maybe this is it.
 use the left arrow to go back!
